@@ -648,6 +648,7 @@ li a:hover{
     /*reviews*/
     .reviewcard{
         width:90%;
+        height:auto;
     }
     .reviewcontent{
         width:95%;
