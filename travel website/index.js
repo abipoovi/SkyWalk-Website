@@ -2,7 +2,7 @@ AOS.init(
     {
         once:false,
         duration:2000,
-        dealy:300,
+        dealy:100,
         easing:'ease',
 
     
